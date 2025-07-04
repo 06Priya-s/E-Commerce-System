@@ -66,6 +66,7 @@ Available Products:
 P001 - Laptop ($999.99, 10 in stock)
 P002 - Smartphone ($699.99, 15 in stock)
 P003 - Headphones ($199.99, 20 in stock)
+P004 - Smart Watch ($249.99, 8 in stock)
 -----------------------
   </pre>
     
